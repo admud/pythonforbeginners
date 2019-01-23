@@ -8,3 +8,16 @@
 # print("  / |")
 # print(" /  |")
 # print("/   |")
+
+# character_name = "Kapp"
+
+# print("my name is " + character_name)
+
+# phrase = "omegalul"
+
+# print(phrase.upper())
+# print(phrase[2])
+
+# name = input("Enter your name fam: ")
+
+# print("Hi " + name)
