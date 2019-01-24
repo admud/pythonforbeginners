@@ -53,4 +53,13 @@
 # print(friends)
 # print(lucky_numbers)
 
-# TYUPLES
+# # TYUPLES -> IMMUTABLEEE cannot be modified lad!
+
+# coordinates = (4,5)
+
+# Functions
+
+def sayKappa():
+  print("Kappa?")
+
+sayKappa()
