@@ -30,3 +30,17 @@
 # print(result)
 
 # print("Result is " + str(result))
+
+# color = input("Enter a color ")
+
+# plural_noun = input("Enter a plural noun ")
+
+# celebrity = input("Enter a celebrity ")
+
+# print("My fav color is " + color)
+# print("lulp my " + plural_noun)
+# print("that " + celebrity +" is dope")
+
+# LISTS
+
+friends = ["Kappa", "LUL", "Pepega"]
