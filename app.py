@@ -43,4 +43,14 @@
 
 # LISTS
 
-friends = ["Kappa", "LUL", "Pepega"]
+# friends = ["Kappa", "LUL", "Pepega","PogChamp","PepeHands"]
+# lucky_numbers = [1,2,3,4,5,6,7,8,9,10]
+
+# friends.extend(lucky_numbers)
+# friends.append("XD")
+# friends.remove("LUL")
+# lucky_numbers.reverse()
+# print(friends)
+# print(lucky_numbers)
+
+# TYUPLES
