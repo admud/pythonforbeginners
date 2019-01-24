@@ -59,7 +59,26 @@
 
 # Functions
 
-def sayKappa():
-  print("Kappa?")
+# def sayKappa(name):
+#   print("Kappa? " + name)
 
-sayKappa()
+# sayKappa("lulx")
+
+# more functions
+
+# is_male =  True
+
+# if is_male:
+#   print("You are a male")
+# else:
+#   print("You are not a male")
+
+# monthConversions = {
+#   "Jan" : "January",
+#   "Feb" : "February"
+# }
+
+friends = ["a","b","c"]
+
+for index in range(len(friends)):
+  print(friends[index])
