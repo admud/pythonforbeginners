@@ -78,7 +78,19 @@
 #   "Feb" : "February"
 # }
 
-friends = ["a","b","c"]
+# friends = ["a","b","c"]
 
-for index in range(len(friends)):
-  print(friends[index])
+# for index in range(len(friends)):
+#   print(friends[index])
+
+# TRY EXCEPT handling errors
+
+# try:
+#   number = int(input("Enter "))
+#   print(number)
+# except:
+#   print("Kappa")
+
+# file reading
+
+# open =("tex.txt","r")
