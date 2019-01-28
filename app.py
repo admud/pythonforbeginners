@@ -94,3 +94,10 @@
 # file reading
 
 # open =("tex.txt","r")
+
+# import useful_tools
+
+# print(useful_tools.roll_dice(10))
+
+# class Student:
+#   def __init__(self,name,major, gpa):
